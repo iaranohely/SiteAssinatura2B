@@ -3,3 +3,7 @@
 #FFFFFF;
 }
 body {background-color: var(--cor-de-fundo #1e96ac);}
+*{
+    margin:0;
+    padding:0;
+}
