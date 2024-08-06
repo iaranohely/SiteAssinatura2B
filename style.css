@@ -16,9 +16,9 @@ body {
 }
 
 .principal {
-    background-image: url("https://storyset.com/animal"");
+    background-image: url("Unicorn.png");
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: contain;
 }
 
 .container {
