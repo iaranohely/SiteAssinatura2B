@@ -16,9 +16,9 @@ body {
 }
 
 .principal {
-    background-image: url("img/back.png");
+    background-image: url("https://br.pinterest.com/pin/623396773438149872/");
     background-repeat: no-repeat;
-    background-size: cover; /* ou 'contain' conforme necessário */
+    background-size: cover; 
 }
 
 .container {
