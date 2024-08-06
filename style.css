@@ -2,7 +2,7 @@
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
-    --cor-de-fundo: #1e96ac;
+    --cor-de-fundo: #031315;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/back.jfif");
+    background-image: url("img/unicorn.svg");
     background-repeat: no-repeat;
     background-size: cover; 
 }
