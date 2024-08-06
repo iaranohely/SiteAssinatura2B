@@ -2,3 +2,4 @@
 --branco-principal:
 #FFFFFF;
 }
+body {background-color: var(--cor-de-fundo #1e96ac);}
