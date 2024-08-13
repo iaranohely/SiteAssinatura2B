@@ -37,6 +37,7 @@ body {
     padding: 1em;
     color: var(--branco-principal);
     display: block;
+    text-decoration: none;
 }
 
 .botao_secundario {
@@ -48,3 +49,4 @@ body {
     font-size: 12px;
     color: var(--cinza-secundario);
 }
+
