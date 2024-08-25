@@ -4,7 +4,7 @@
     --botao-azul: #7cb3f6;
     --cor-de-fundo: #000000;
     --fonte-principal: 'Matemasie';
-    --botao-azul-efeito: #3c92fa;
+    --lista-efeito: #a130f2;
 }
 
 body {
@@ -137,7 +137,7 @@ body {
 }
 
 .lista__link a:hover {
-    color: var(--botao-azul);
+    color: var(--lista-efeito);
 }
 
 .lista__link a:active {
