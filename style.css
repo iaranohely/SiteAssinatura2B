@@ -5,6 +5,7 @@
     --cor-de-fundo: #000000;
     --fonte-principal: 'Matemasie';
     --lista-efeito: #a130f2;
+    --botao-azul-efeito: #0b458d;
 }
 
 body {
@@ -144,3 +145,7 @@ body {
     color: purple;
 }
 
+.container__botao:hover {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
+}
